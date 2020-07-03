@@ -271,6 +271,7 @@ Practice tests will be available in February or March 2019.
       - Azure AD Connect -> Configure -> Configure device options -> Hybrid Azure AD join
       - To register Windows down-level devices, you need to download and install the Windows Installer package (.msi) from Download Center on the Microsoft Workplace Join for non-Windows 10 computers page.
     - Configure Azure AD Enterprise State Roaming
+      - Basicly, it'll sync your account in azure active directory with your device. So, personal setting will be the same for the same user.
       - <https://docs.microsoft.com/en-us/azure/active-directory/devices/enterprise-state-roaming-enable>
       - Enterprise State Roaming is available to any organization with an Azure AD Premium or Enterprise Mobility + Security (EMS) license.
       - Azure Portal -> AAD -> Devices -> Enterprise State Roaming -> Select Users may sync settings and app data across devices
